@@ -1,3 +1,8 @@
+# Name: Text Alignment
+# Problem: https://www.hackerrank.com/challenges/text-alignment/problem
+# Score: 10
+
+
 thickness = int(input())  # This must be an odd number
 c = 'H'
 

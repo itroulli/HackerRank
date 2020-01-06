@@ -1,3 +1,8 @@
+# Name: String Formatting
+# Problem: https://www.hackerrank.com/challenges/python-string-formatting/problem
+# Score: 10
+
+
 def print_formatted(number):
 
     width = len(bin(number)[2:])

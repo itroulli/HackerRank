@@ -1,3 +1,8 @@
+# Name: List Comprehensions
+# Problem: https://www.hackerrank.com/challenges/list-comprehensions/problem
+# Score: 10
+
+
 if __name__ == '__main__':
     x, y, z, n = (int(input()), int(input()), int(input()), int(input()))
 

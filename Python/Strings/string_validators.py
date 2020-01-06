@@ -1,3 +1,8 @@
+# Name: String Validators
+# Problem: https://www.hackerrank.com/challenges/string-validators/problem
+# Score: 10
+
+
 if __name__ == '__main__':
     s = input()
     st = set(s)

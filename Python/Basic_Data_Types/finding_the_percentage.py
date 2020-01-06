@@ -1,3 +1,8 @@
+# Name: Finding the percentage
+# Problem: https://www.hackerrank.com/challenges/finding-the-percentage/problem
+# Score: 10
+
+
 import statistics
 
 if __name__ == '__main__':

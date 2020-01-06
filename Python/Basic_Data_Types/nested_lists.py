@@ -1,3 +1,8 @@
+# Name: Nested Lists
+# Problem: https://www.hackerrank.com/challenges/nested-list/problem
+# Score: 10
+
+
 if __name__ == '__main__':
     students = []
     scores = []

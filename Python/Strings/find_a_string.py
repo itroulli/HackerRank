@@ -1,3 +1,8 @@
+# Name: Find a string
+# Problem: https://www.hackerrank.com/challenges/find-a-string/problem
+# Score: 10
+
+
 def count_substring(string, sub_string):
     sub_l = len(sub_string)
     count = 0

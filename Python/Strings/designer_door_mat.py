@@ -1,3 +1,8 @@
+# Name: Designer Door Mat
+# Problem: https://www.hackerrank.com/challenges/designer-door-mat/problem
+# Score: 10
+
+
 n, m = map(int, input().split(" "))
 symbol = ".|."
 for row in range(n//2):

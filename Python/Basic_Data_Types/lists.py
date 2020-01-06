@@ -1,3 +1,8 @@
+# Name: Lists
+# Problem: https://www.hackerrank.com/challenges/python-lists/problem
+# Score: 10
+
+
 if __name__ == '__main__':
     n = int(input())
     method_map = {'insert': list.insert,

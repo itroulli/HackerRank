@@ -1,3 +1,7 @@
+# Name: Write a function
+# Problem: https://www.hackerrank.com/challenges/write-a-function/problem
+# Score: 10
+
 def is_leap(year):
     leap = False
     if year % 4 == 0:
