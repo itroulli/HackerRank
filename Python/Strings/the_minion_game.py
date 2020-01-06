@@ -1,3 +1,8 @@
+# Name: The Minion Game
+# Problem: https://www.hackerrank.com/challenges/the-minion-game/problem
+# Score: 40
+
+
 def minion_game(string):
     # your code goes here
     vowels = 'AEIOU'

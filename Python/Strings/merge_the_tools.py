@@ -1,3 +1,8 @@
+# Name: Merge the Tools!
+# Problem: https://www.hackerrank.com/challenges/merge-the-tools/problem
+# Score: 40
+
+
 def merge_the_tools(string, k):
     t = []
     u = []

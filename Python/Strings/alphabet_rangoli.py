@@ -1,3 +1,8 @@
+# Name: Alphabet Rangoli
+# Problem: https://www.hackerrank.com/challenges/alphabet-rangoli/problem
+# Score: 20
+
+
 def print_rangoli(size):
     # your code goes here
     abc = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
