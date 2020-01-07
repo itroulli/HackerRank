@@ -40,9 +40,9 @@ print('<p align="center"><a href="https://www.hackerrank.com/htrul18"><img '
       'src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" '
       'width="400"></a></p>', file=readmeFile)
 print(file=readmeFile)
-print('# Solutions to Hackerrank problems', file=readmeFile)
-print('This repository contains ' + str(get_total_num_problems()) + ' solutions to Hackerrank problems with Python 3 '
-                                                                    'and MySQL.', file=readmeFile)
+print('# Solutions to HackerRank problems', file=readmeFile)
+print('This repository contains ' + str(get_total_num_problems()) + 'solutions to Hackerrank problems with **Python '
+                                                                    '3** and **MySQL**.', file=readmeFile)
 print(file=readmeFile)
 print('Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice]('
       'https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this '
