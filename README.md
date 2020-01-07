@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/htrul18"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
-# Solutions to Hackerrank problems
-This repository contains 45 solutions to Hackerrank problems with Python 3 and MySQL.
+# Solutions to HackerRank problems
+This repository contains 47solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -66,3 +66,5 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/003-mod_divmod.py) | Score: 10
         - Power - Mod Power | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/004-power_mod_power.py) | Score: 10
         - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/005-integers_come_in_all_sizes.py) | Score: 10
+        - Triangle Quest | [Problem](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/006-triangle_quest.py) | Score: 20
+        - Triangle Quest 2 | [Problem](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/007-triangle_quest_2.py) | Score: 20
