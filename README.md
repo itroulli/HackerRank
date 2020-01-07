@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/htrul18"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to Hackerrank problems
-This repository contains 40 solutions to Hackerrank problems with Python 3 and MySQL.
+This repository contains 45 solutions to Hackerrank problems with Python 3 and MySQL.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -17,6 +17,11 @@ Frequently updated as it is work in progress! If you find it helpful please pres
 - ### Python
 
     - **Math**
+        - Polar Coordinates | [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/001-polar_coordinates.py) | Score: 10
+        - Find Angle MBC | [Problem](https://www.hackerrank.com/challenges/find-angle/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/002-find_angle_mbc.py) | Score: 10
+        - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/003-mod_divmod.py) | Score: 10
+        - Power - Mod Power | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/004-power_mod_power.py) | Score: 10
+        - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/005-integers_come_in_all_sizes.py) | Score: 10
     - **Introduction**
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Introduction/001-Say_Hello_World_with_Python.py) | Score: 5
         - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Introduction/002-Python_If-Else.py) | Score: 10
