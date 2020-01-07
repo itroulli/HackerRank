@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.hackerrank.com/htrul18"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="200"></a></p>
+<p align="center"><a href="https://www.hackerrank.com/htrul18"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to Hackerrank problems
 This repository contains 40 solutions to Hackerrank problems with Python 3 and MySQL.
@@ -16,6 +16,7 @@ Frequently updated as it is work in progress! If you find it helpful please pres
 
 - ### Python
 
+    - **Math**
     - **Introduction**
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Introduction/001-Say_Hello_World_with_Python.py) | Score: 5
         - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Introduction/002-Python_If-Else.py) | Score: 10
