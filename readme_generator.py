@@ -36,17 +36,27 @@ def get_total_num_problems():
 
 readmeFile = open('README.md', 'w', encoding='utf-8')
 
-print('<p align="center"><a href="https://www.hackerrank.com/htrul18"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>', file=readmeFile)
+print('<p align="center"><a href="https://www.hackerrank.com/htrul18"><img '
+      'src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" '
+      'width="400"></a></p>', file=readmeFile)
 print(file=readmeFile)
 print('# Solutions to Hackerrank problems', file=readmeFile)
-print('This repository contains ' + str(get_total_num_problems()) + ' solutions to Hackerrank problems with Python 3 and MySQL.', file=readmeFile)
+print('This repository contains ' + str(get_total_num_problems()) + ' solutions to Hackerrank problems with Python 3 '
+                                                                    'and MySQL.', file=readmeFile)
 print(file=readmeFile)
-print('Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.', file=readmeFile)
+print('Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice]('
+      'https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this '
+      'repository.', file=readmeFile)
 print(file=readmeFile)
-print("In addition, this README file was automatically generated using [readme_generator.py](https://github.com/itroulli/HackerRank/blob/master/readme_generator.py) which is a modification of Alexander's [Automated readme generation.py](https://github.com/marinskiy/HackerrankPractice/blob/master/Automated%20readme%20generation.py).", file=readmeFile)
+print("In addition, this README file was automatically generated using [readme_generator.py]("
+      "https://github.com/itroulli/HackerRank/blob/master/readme_generator.py) which is a modification of Alexander's "
+      "[Automated readme generation.py](https://github.com/marinskiy/HackerrankPractice/blob/master/Automated"
+      "%20readme%20generation.py).", file=readmeFile)
 print(file=readmeFile)
-print('[![GitHub last commit](https://img.shields.io/github/last-commit/itroulli/HackerRank.svg)](https://github.com/itroulli/HackerRank) ', file=readmeFile)
-print('[![GitHub commit activity the past month](https://img.shields.io/github/commit-activity/m/itroulli/HackerRank.svg)](https://github.com/itroulli/HackerRank)', file=readmeFile)
+print('[![GitHub last commit](https://img.shields.io/github/last-commit/itroulli/HackerRank.svg)]('
+      'https://github.com/itroulli/HackerRank) ', file=readmeFile)
+print('[![GitHub commit activity the past month](https://img.shields.io/github/commit-activity/m/itroulli/HackerRank'
+      '.svg)](https://github.com/itroulli/HackerRank)', file=readmeFile)
 print(file=readmeFile)
 print('Frequently updated as it is work in progress! If you find it helpful please press a star!', file=readmeFile)
 print(file=readmeFile)
@@ -56,7 +66,7 @@ folders = get_folder_names(os.getcwd())
 for folder in folders:
     print('- ### ' + folder.replace('_',' ') + '\n', file=readmeFile)
     subfolders = get_folder_names(os.path.join(os.getcwd(), folder))
-    for subfolder in subfolders:
+    for subfolder in sorted(subfolders, key=lambda x: os.stat(os.path.join(folder, x)).st_ctime):
         print('    - **' + subfolder.replace('_',' ') + '**', file=readmeFile)
         files = get_file_names(os.path.join(os.getcwd(), folder, subfolder))
         for file in files:

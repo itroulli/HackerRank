@@ -16,12 +16,6 @@ Frequently updated as it is work in progress! If you find it helpful please pres
 
 - ### Python
 
-    - **Math**
-        - Polar Coordinates | [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/001-polar_coordinates.py) | Score: 10
-        - Find Angle MBC | [Problem](https://www.hackerrank.com/challenges/find-angle/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/002-find_angle_mbc.py) | Score: 10
-        - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/003-mod_divmod.py) | Score: 10
-        - Power - Mod Power | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/004-power_mod_power.py) | Score: 10
-        - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/005-integers_come_in_all_sizes.py) | Score: 10
     - **Introduction**
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Introduction/001-Say_Hello_World_with_Python.py) | Score: 5
         - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Introduction/002-Python_If-Else.py) | Score: 10
@@ -66,3 +60,9 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - The Captain's Room | [Problem](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Sets/011-the_captains_room.py) | Score: 10
         - Check Subset | [Problem](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Sets/012-check_subset.py) | Score: 10
         - Check Strict Superset | [Problem](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Sets/013-check_strict_superset.py) | Score: 10
+    - **Math**
+        - Polar Coordinates | [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/001-polar_coordinates.py) | Score: 10
+        - Find Angle MBC | [Problem](https://www.hackerrank.com/challenges/find-angle/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/002-find_angle_mbc.py) | Score: 10
+        - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/003-mod_divmod.py) | Score: 10
+        - Power - Mod Power | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/004-power_mod_power.py) | Score: 10
+        - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/005-integers_come_in_all_sizes.py) | Score: 10
