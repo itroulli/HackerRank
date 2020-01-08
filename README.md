@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 54 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 55 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -76,3 +76,5 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/005-compress_the_string.py) | Score: 20
         - Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/006-iterables_and_iterators.py) | Score: 40
         - Maximize it! | [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/007-maximize_it.py) | Score: 50
+    - **Collections**
+        - collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/001-collections_counter.py) | Score: 10
