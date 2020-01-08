@@ -41,7 +41,7 @@ print('<p align="center"><a href="https://www.hackerrank.com/itroulli"><img '
       'width="400"></a></p>', file=readmeFile)
 print(file=readmeFile)
 print('# Solutions to HackerRank problems', file=readmeFile)
-print('This repository contains ' + str(get_total_num_problems()) + 'solutions to Hackerrank problems with **Python '
+print('This repository contains ' + str(get_total_num_problems()) + ' solutions to Hackerrank problems with **Python '
                                                                     '3** and **MySQL**.', file=readmeFile)
 print(file=readmeFile)
 print('Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice]('
