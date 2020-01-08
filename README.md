@@ -1,7 +1,7 @@
-<p align="center"><a href="https://www.hackerrank.com/htrul18"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
+<p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 47solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 50solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -68,3 +68,7 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/005-integers_come_in_all_sizes.py) | Score: 10
         - Triangle Quest | [Problem](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/006-triangle_quest.py) | Score: 20
         - Triangle Quest 2 | [Problem](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Math/007-triangle_quest_2.py) | Score: 20
+    - **Itertools**
+        - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/001-itertools_product.py) | Score: 10
+        - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/002-itertools_permutations.py) | Score: 10
+        - itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/003-itertools_combinations.py) | Score: 10
