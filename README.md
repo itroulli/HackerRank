@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 55 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 59 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -78,3 +78,7 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Maximize it! | [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/007-maximize_it.py) | Score: 50
     - **Collections**
         - collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/001-collections_counter.py) | Score: 10
+        - DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/002-defaultdict_tutorial.py) | Score: 20
+        - Collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/003-collections_namedtuple.py) | Score: 20
+        - Collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/004-collections_ordereddict.py) | Score: 20
+        - Word Order | [Problem](https://www.hackerrank.com/challenges/word-order/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/005-word_order.py) | Score: 50
