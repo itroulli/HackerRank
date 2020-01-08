@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 50 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 52 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -72,3 +72,5 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/001-itertools_product.py) | Score: 10
         - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/002-itertools_permutations.py) | Score: 10
         - itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/003-itertools_combinations.py) | Score: 10
+        - itertools.combinations_with_replacement | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/004-itertools_combinations_with_replacement.py) | Score: 10
+        - Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/005-compress_the_string.py) | Score: 20
