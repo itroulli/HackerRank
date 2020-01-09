@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 63 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 64 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -87,3 +87,7 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Piling Up! | [Problem](https://www.hackerrank.com/challenges/piling-up/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/008-piling_up.py) | Score: 50
     - **Date and Time**
         - Calendar Module | [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Date_and_Time/001-calendar_module.py) | Score: 10
+- ### SQL
+
+    - **Basic Select**
+        - Name: Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/001-revising_the_select_query_i) | Score: 10
