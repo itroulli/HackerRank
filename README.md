@@ -90,4 +90,4 @@ Frequently updated as it is work in progress! If you find it helpful please pres
 - ### SQL
 
     - **Basic Select**
-        - Name: Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/001-revising_the_select_query_i) | Score: 10
+        - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/001-revising_the_select_query_i.sql) | Score: 10
