@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 78 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 86 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -106,3 +106,11 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Weather Observation Station 5 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/010-weather_observation_station_5.sql) | Score: 30
         - Weather Observation Station 6 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/011-weather_observation_station_6.sql) | Score: 10
         - Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/012-weather_observation_station_7.sql) | Score: 10
+        - Weather Observation Station 8 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/013-weather_observation_station_8.sql) | Score: 15
+        - Weather Observation Station 9 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/014-weather_observation_station_9.sql) | Score: 10
+        - Weather Observation Station 10 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/015-weather_observation_station_10.sql) | Score: 10
+        - Weather Observation Station 11 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/016-weather_observation_station_11.sql) | Score: 15
+        - Weather Observation Station 12 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/017-weather_observation_station_12.sql) | Score: 15
+        - Higher Than 75 Marks | [Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/018-higher_than_75_marks.sql) | Score: 15
+        - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/019-employee_names.sql) | Score: 10
+        - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/020-employee_salaries.sql) | Score: 10
