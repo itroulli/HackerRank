@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 68 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 78 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -96,3 +96,13 @@ Frequently updated as it is work in progress! If you find it helpful please pres
     - **Basic Select**
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/001-revising_the_select_query_i.sql) | Score: 10
         - Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/002-revising_the_select_query_ii.sql) | Score: 10
+        - Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/003-select_all.sql) | Score: 10
+        - Select By ID | [Problem](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/004-select_by_id.sql) | Score: 10
+        - Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/005-japanese_cities_attributes.sql) | Score: 10
+        - Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/006-japanese_cities_names.sql) | Score: 10
+        - Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/007-weather_observation_station_1.sql) | Score: 15
+        - Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/008-weather_observation_station_3.sql) | Score: 10
+        - Weather Observation Station 4 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/009-weather_observation_station_4.sql) | Score: 10
+        - Weather Observation Station 5 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/010-weather_observation_station_5.sql) | Score: 30
+        - Weather Observation Station 6 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/011-weather_observation_station_6.sql) | Score: 10
+        - Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/012-weather_observation_station_7.sql) | Score: 10
