@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 67 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 68 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -89,7 +89,8 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Calendar Module | [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Date_and_Time/001-calendar_module.py) | Score: 10
         - Time Delta | [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Date_and_Time/002-time_delta.py) | Score: 30
     - **Errors and Exceptions**
-        - Exceptions | [Problem](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Errors_and_Exceptions/Exceptions.py) | Score: 10
+        - Exceptions | [Problem](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Errors_and_Exceptions/001-exceptions.py) | Score: 10
+        - Incorrect Regex | [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Errors_and_Exceptions/002-incorrect_regex.py) | Score: 20
 - ### SQL
 
     - **Basic Select**
