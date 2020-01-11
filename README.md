@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 86 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 88 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -114,3 +114,6 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Higher Than 75 Marks | [Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/018-higher_than_75_marks.sql) | Score: 15
         - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/019-employee_names.sql) | Score: 10
         - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Select/020-employee_salaries.sql) | Score: 10
+    - **Advanced Select**
+        - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Advanced_Select/001-type_of_triangle.sql) | Score: 20
+        - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Advanced_Select/002-the_pads.sql) | Score: 30
