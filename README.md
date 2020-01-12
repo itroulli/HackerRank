@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 94 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 96 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -124,3 +124,5 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Average Population | [Problem](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/004-average_population.sql) | Score: 10
         - Japan Population | [Problem](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/005-japan_population.sql) | Score: 10
         - Population Density Difference | [Problem](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/006-population_density_difference.sql) | Score: 10
+        - The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/007-the_blunder.sql) | Score: 15
+        - Top Earners | [Problem](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/008-top_earners.sql) | Score: 20
