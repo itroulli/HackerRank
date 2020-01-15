@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 100 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 105 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -130,3 +130,8 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Weather Observation Station 13 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/010-weather_observation_station_13.sql) | Score: 10
         - Weather Observation Station 14 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/011-weather_observation_station_14.sql) | Score: 10
         - Weather Observation Station 15 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/012-weather_observation_station_15.sql) | Score: 10
+        - Weather Observation Station 16 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/013-weather_observation_statiom_16.sql) | Score: 10
+        - Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/014-weather_observation_station_17.sql) | Score: 15
+        - Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/014-weather_observation_station_18.sql) | Score: 25
+        - Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/015-weather_observation_station_19.sql) | Score: 30
+        - Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/016-weather_observation_station_20.sql) | Score: 40
