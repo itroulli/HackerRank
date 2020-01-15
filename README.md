@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 105 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 106 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -135,3 +135,5 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/014-weather_observation_station_18.sql) | Score: 25
         - Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/015-weather_observation_station_19.sql) | Score: 30
         - Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Aggregation/016-weather_observation_station_20.sql) | Score: 40
+    - **Basic Join**
+        - Asian Population | [Problem](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/SQL/Basic_Join/001-asian_population.sql) | Score: 10
