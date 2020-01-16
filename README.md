@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 109 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 111 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -76,6 +76,12 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/005-compress_the_string.py) | Score: 20
         - Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/006-iterables_and_iterators.py) | Score: 40
         - Maximize it! | [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Itertools/007-maximize_it.py) | Score: 50
+    - **Date and Time**
+        - Calendar Module | [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Date_and_Time/001-calendar_module.py) | Score: 10
+        - Time Delta | [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Date_and_Time/002-time_delta.py) | Score: 30
+    - **Errors and Exceptions**
+        - Exceptions | [Problem](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Errors_and_Exceptions/001-exceptions.py) | Score: 10
+        - Incorrect Regex | [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Errors_and_Exceptions/002-incorrect_regex.py) | Score: 20
     - **Collections**
         - collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/001-collections_counter.py) | Score: 10
         - DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/002-defaultdict_tutorial.py) | Score: 20
@@ -85,12 +91,9 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Collections.deque() | [Problem](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/006-collections_deque.py) | Score: 20
         - Company Logo | [Problem](https://www.hackerrank.com/challenges/most-commons/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/007-company_logo.py) | Score: 30
         - Piling Up! | [Problem](https://www.hackerrank.com/challenges/piling-up/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Collections/008-piling_up.py) | Score: 50
-    - **Date and Time**
-        - Calendar Module | [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Date_and_Time/001-calendar_module.py) | Score: 10
-        - Time Delta | [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Date_and_Time/002-time_delta.py) | Score: 30
-    - **Errors and Exceptions**
-        - Exceptions | [Problem](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Errors_and_Exceptions/001-exceptions.py) | Score: 10
-        - Incorrect Regex | [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Errors_and_Exceptions/002-incorrect_regex.py) | Score: 20
+    - **Classes**
+        - Classes: Dealing with Complex Numbers | [Problem](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Classes/001-dealing_with_complex_nums.py) | Score: 20
+        - Class 2 - Find the Torsional Angle | [Problem](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Classes/002-%20find_the_torsional_angle.py) | Score: 20
 - ### SQL
 
     - **Basic Select**
