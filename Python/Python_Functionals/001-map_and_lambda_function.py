@@ -1,4 +1,4 @@
-# Name: map and Lambda Function
+# Name: Map and Lambda Function
 # Problem: https://www.hackerrank.com/challenges/map-and-lambda-expression/problem
 # Score: 20
 
