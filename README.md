@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 126 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 127 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -163,3 +163,4 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Day 3: Intro to conditional statements | [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/003-intro_to_conditionals.py) | Score: 30
         - Day 4: Class vs. Instance | [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/004-class_vs_instance.py) | Score: 30
         - Day 5: Loops | [Problem](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/005-loops.py) | Score: 30
+        - Day 5: Let's Review | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/006-lets_review.py) | Score: 30
