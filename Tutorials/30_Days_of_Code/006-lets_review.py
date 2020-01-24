@@ -1,4 +1,4 @@
-# Name: Day 5: Let's Review
+# Name: Day 6: Let's Review
 # Problem: https://www.hackerrank.com/challenges/30-review-loop/problem
 # Score: 30
 
