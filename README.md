@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 132 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 134 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -108,6 +108,9 @@ Frequently updated as it is work in progress! If you find it helpful please pres
     - **XML**
         - XML 1 - Find the Score | [Problem](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/XML/001-find_the_score.py) | Score: 20
         - XML2 - Find the Maximum Depth | [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/XML/002-find_the_max_depth.py) | Score: 20
+    - **Regex and Parsing**
+        - Detect Floating Point Number | [Problem](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Regex_and_Parsing/001-detect_floating_point_num.py) | Score: 20
+        - Re.split() | [Problem](https://www.hackerrank.com/challenges/re-split/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Regex_and_Parsing/002-re_split.py) | Score: 20
 - ### SQL
 
     - **Basic Select**
