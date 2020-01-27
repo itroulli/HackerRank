@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 134 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 136 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -173,3 +173,5 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Day 7: Arrays | [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/007-arrays.py) | Score: 30
         - Day 8: Dictionaries and Maps | [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/008-dictionaries_and_maps.py) | Score: 30
         - Day 9: Recursion 3 | [Problem](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/009-recursion_3.py) | Score: 30
+        - Day 10: Binary Numbers | [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/010-binary_numbers.py) | Score: 30
+        - Day 11: 2D Arrays | [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/011-2d_arrays.py) | Score: 30
