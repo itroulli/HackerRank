@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 136 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 137 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -111,6 +111,8 @@ Frequently updated as it is work in progress! If you find it helpful please pres
     - **Regex and Parsing**
         - Detect Floating Point Number | [Problem](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Regex_and_Parsing/001-detect_floating_point_num.py) | Score: 20
         - Re.split() | [Problem](https://www.hackerrank.com/challenges/re-split/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Regex_and_Parsing/002-re_split.py) | Score: 20
+    - **Closures and Decorators**
+        - Standardize Mobile Number Using Decorators | [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Closures_and_Decorators/001-standardize_mobile_numbers.py) | Score: 30
 - ### SQL
 
     - **Basic Select**
