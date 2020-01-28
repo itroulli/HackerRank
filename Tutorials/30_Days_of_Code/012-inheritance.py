@@ -1,4 +1,4 @@
-# Name: Day 1: Inheritance
+# Name: Day 12: Inheritance
 # Problem: https://www.hackerrank.com/challenges/30-inheritance/problem
 # Score: 30
 
