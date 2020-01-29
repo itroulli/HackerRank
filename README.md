@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 144 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 146 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -185,3 +185,6 @@ Frequently updated as it is work in progress! If you find it helpful please pres
         - Day 11: 2D Arrays | [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/011-2d_arrays.py) | Score: 30
         - Day 12: Inheritance | [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/012-inheritance.py) | Score: 30
         - Day 13: Abstract Classes | [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/30_Days_of_Code/013-abstract_classes.py) | Score: 30
+    - **10 Days of Javascript**
+        - Day 0: Hello, World! | [Problem](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/10_Days_of_Javascript/000-hello_world.js) | Score: 10
+        - Day 0: Data Types | [Problem](https://www.hackerrank.com/challenges/js10-data-types/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Tutorials/10_Days_of_Javascript/001-data_types.js) | Score: 10
