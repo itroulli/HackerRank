@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/itroulli"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" width="400"></a></p>
 
 # Solutions to HackerRank problems
-This repository contains 141 solutions to Hackerrank problems with **Python 3** and **MySQL**.
+This repository contains 144 solutions to Hackerrank problems with **Python 3** and **MySQL**.
 
 Inspired by [Alexander Marinskiy](https://github.com/marinskiy) and his repository [HackerankPractice](https://github.com/marinskiy/HackerrankPractice), I decided to document my HackerRank journey in this repository.
 
@@ -116,6 +116,9 @@ Frequently updated as it is work in progress! If you find it helpful please pres
     - **Numpy**
         - Arrays | [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Numpy/001-arrays.py) | Score: 20
         - Shape and Reshape | [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Numpy/002-shape_and_reshape.py) | Score: 20
+        - Transpose and Flatten | [Problem](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Numpy/003-transpose_and_flatten.py) | Score: 20
+        - Zeros and Ones | [Problem](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Numpy/004-zeros_and_ones.py) | Score: 20
+        - Concatenate | [Problem](https://www.hackerrank.com/challenges/np-concatenate/problem) | [Solution](https://github.com/itroulli/HackerRank/blob/master/Python/Numpy/005-concatenate.py) | Score: 20
 - ### SQL
 
     - **Basic Select**
